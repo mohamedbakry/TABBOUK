@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <languages>
+    <language>
+      <key>AR</key>
+      <name>AR</name>
+      <degrade></degrade>
+    </language>
+    <language>
+      <key>EN</key>
+      <name>EN</name>
+      <degrade></degrade>
+    </language>
+    <language>
+      <key>RO</key>
+      <name>RO</name>
+      <degrade></degrade>
+    </language>
+  </languages>
+
+  <translations>
+
+    <!-- Home -->
+    
+    <translation>
+    <text lang="KEY">TABBOUK</text>
+    <text lang="AR">تبوك</text>
+    <text lang="EN">TABBOUK</text>
+    <text lang="RO">TABBOUK</text>
+  </translation>
+
+    <translation>
+      <text lang="KEY">Send Message</text>
+      <text lang="AR">إرسال رسالة</text>
+      <text lang="EN">Send Message</text>
+      <text lang="RO">Отправить Сообщение</text>
+    </translation>
+
+    <translation>
+      <text lang="KEY">Your Name</text>
+      <text lang="AR">إسمك</text>
+      <text lang="EN">Your Name</text>
+      <text lang="RO">Ваше Имя</text>
+    </translation>
+
+    <translation>
+      <text lang="KEY">Your E-mail</text>
+      <text lang="AR">بريدك الإلكتروني</text>
+      <text lang="EN">Your Email</text>
+      <text lang="RO">Ваш E-mail</text>
+    </translation>
+
+    <translation>
+      <text lang="KEY">Call Us</text>
+      <text lang="AR">كلمنا</text>
+      <text lang="EN">Call Us</text>
+      <text lang="RO">Позвоните нам</text>
+    </translation>
+
+    <translation>
+      <text lang="KEY">E-mail Us</text>
+      <text lang="AR">راسلنا</text>
+      <text lang="EN">E-mail Us</text>
+      <text lang="RO">Пишите нам</text>
+    </translation>
+    
+    <translation>
+      <text lang="KEY">Your Message</text>
+      <text lang="AR">رسالتك لنا</text>
+      <text lang="EN">Your Message</text>
+      <text lang="RO">Ваше Сообщение</text>
+    </translation>
+
+    <translation>
+      <text lang="KEY">الرئيسية</text>
+      <text lang="AR">الرئيسية</text>
+      <text lang="EN">Home</text>
+      <text lang="RO">домой</text>
+    </translation>
+
+    <translation>
+      <text lang="KEY">عن الشركة</text>
+      <text lang="AR">عن الشركة</text>
+      <text lang="EN">About Us</text>
+      <text lang="RO">О компании</text>
+    </translation>
+
+    <translation>
+      <text lang="KEY">خدماتنا</text>
+      <text lang="AR">خدماتنا</text>
+      <text lang="EN">Our Services</text>
+      <text lang="RO">Наши Услуги</text>
+    </translation>
+
+    <translation>
+      <text lang="KEY">منتجاتنا</text>
+      <text lang="AR">منتجاتنا</text>
+      <text lang="EN">Our Products</text>
+      <text lang="RO">Наши продукты</text>
+    </translation>
+
+    <translation>
+      <text lang="KEY">عملائنا</text>
+      <text lang="AR">عملائنا</text>
+      <text lang="EN">Clients</text>
+      <text lang="RO">клиенты</text>
+    </translation>
+    
+<translation>
+    <text lang="KEY">فريق العمل</text>
+    <text lang="AR">فريق العمل</text>
+    <text lang="EN">Team Work</text>
+    <text lang="RO">рабочая группа</text>
+  </translation>
+
+
+    <translation>
+      <text lang="KEY">إتصل بنا</text>
+      <text lang="AR">إتصل بنا</text>
+      <text lang="EN">Contact Us</text>
+      <text lang="RO">Связаться С Нами</text>
+    </translation>
+    <translation>
+      <text lang="KEY">إقرأ المزيد</text>
+      <text lang="AR">إقرأ المزيد</text>
+      <text lang="EN">Read More</text>
+      <text lang="RO">читать далее</text>
+    </translation>
+
+  
+    <translation>
+      <text lang="KEY">تبوك</text>
+      <text lang="AR">تبوك</text>
+      <text lang="EN">TABBOUK</text>
+      <text lang="RO">TABBOUK</text>
+    </translation>
+
+    <translation>
+      <text lang="KEY">We</text>
+      <text lang="AR">نحن نخلق فرص عمل جديدة</text>
+      <text lang="EN">We Can Create Work Opportunities</text>
+      <text lang="RO">Мы можем создать возможности работы</text>
+    </translation>
+
+
+
+    <translation>
+      <text lang="KEY">Welcome</text>
+      <text lang="AR">نحن نرحب بالعملاء المستعدون لزيارة مخازننا لرؤية متنجاتنا وموادنا الخام وجودتها كما نرحب بأي عروض للتعامل في تجارة أي منتجات أخرى بين مصر وأوكرانيا</text>
+      <text lang="EN">we are welcoming for any customer are ready to visite our store to see our production , segregation and quality , also welcome to any new offers for any kind of production matching with the egypt or Ukraine market we are ready to study and do new trading </text>
+      <text lang="RO">Мы приветствуем клиентов, которые готовы посетить наши магазины, чтобы увидеть Mtnecatna сырой качество наших материалов, а также приветствуем любые предложения для рассмотрения в торговле любых других продуктов между Египтом и Украиной</text>
+    </translation>
+
+    <translation>
+      <text lang="KEY">About Head</text>
+      <text lang="AR">تبوك للتجارة والاستيراد والتصدير (مصر - أوكرانيا) ..</text>
+      <text lang="EN">TABOUK FOR TRADING , IMPORT and EXPORT ( EGYPT – UKRAINE )..</text>
+      <text lang="RO">TABOUK для торговли, импорта и экспорта (ЕГИПЕТ - УКРАИНА) ..</text>
+    </translation>
+
+    <translation>
+      <text lang="KEY">About Details</text>
+      <text lang="AR">
+        نحن تبوك للتجارة والتصدير تأسست في مصر منذ عام 1985 لصاحبها السيد محمديوسف محمد الكردي  نحن شركة للتجارة العامة، من أقدم وأكبر شركات التصدير في مصر لمنتجات غزل القطن، كما يمكننا توريد أفضل المواد الخام القطنية 100٪  مثل:
+        Compeer noile compeer noile , Roving , cotton clips , card fly , open end yarn … Egypt origin
+        نحن شركة مصربة المنشأ، ونحن نضمن لك الحصول على  أفضل الخامات وأيضاً نضمن الجودة من الجانب الآخر نقوم بعمليات الاستيراد وفقا للسوق المصرية للمنتجات التالية:
+        Hard Felt , Altra hard felt thermofelt , sprute  , also steel wire all accessories and material using for foam mattress production
+        الآن نفتح فرعنا الجديد في أوكرانيا (تبوك للتجارة والاستيراد والتصدير - أوكرانيا) تم تأسيسة عام 2015 بإدارة السيد حازم سيد في مدينة أوديسا لتصدير الملابس الجاهزة وغزل القطن  إلى أوكرانيا ..
+        أيضا نحن نبحث عن المزيد من التنمية ومزيد من التداول العام
+        لذلك فإن تبوك هي شركة كبيرة لديها العديد من الحقول المختلفة للعمل. فلدينا متجر في القاهرة بناء على 1500M2، 3 كلركس]، 25 عاملا، ونحن نتعامل مع أكبر وكيل شحن لضمان سرعة تسليم البضائع إلى عملائنا. نحن في انتظار طلبك الأول
+      </text>
+      <text lang="EN">
+        We are tabbouk for trading and export establish in Egypt since 1985 with Mr Mohamed Elkourdy we are  general trading company ,  the oldest and biggest exporter in Egypt of cotton yarn waste , we can supply to your company the best ring spoon of the 100% cotton yarn waste , compeer noile , Roving , cotton clips , card fly , open end yarn … Egypt origin , we guarantee the best segregation and guarantee the quality , and have a very good optic for the goods , from the other side we do many kind of import as per the Egypt market inquire like Carpet , Hard Felt , Altra hard felt thermofelt , sprute  , also steel wire all accessories and material using for foam mattress production
+        now we open our new branch in Ukraine ( Tabouk for trading , import and export – Ukraine ) establish in 2015 with Mr Hazem sayed in Odessa city We are importing ready made garments to Ukraine  and export Cotton Yarn to Egypt.. also we are looking for more development and more kind of production for trading in general
+        So as you can see Tabouk is a large company have many different field to work we have our store in Cairo city based on 1500M2 , 3 Clarkes , 25 workers , we deal with the biggest shipping forwarder to guarantee our fast work to deliver the goods to our clients Waiting your first order
+      </text>
+      <text lang="RO">
+        Мы Табук торгового и экспортного основана в Египте с 1985 его владельцу, г-н Мохаммед Курди Mamedyousef Мы общая торговая компания, один из старейших и крупнейших компаний-экспортеров в Египте на хлопчатобумажную пряжу продукции, мы можем поставить самые лучшие хлопок 100% сырья, таких как:
+                Товарищ noile товарищ noile, разъездной, хлопок клипы, карты летать, открытый конец пряжи ... Египет происхождения
+                Мы Msirh созданной компании, мы уверены, вы получите лучшее сырье, а также гарантировать качество с другой стороны, мы импортируем операции, в соответствии с египетского рынка для следующих продуктов:
+                Жесткий войлок, Altra к тяжелым последствиям thermofelt, sprute, а также стальной проволоки все аксессуары и материалы с использованием для производства матрас
+                Теперь мы открываем новый филиал в Украине (Табук торговля, импорт и экспорт - Украина) была основана в 2015 году управление г-н Hazem Сайед в городе Одессе на экспорт готовой одежды, хлопчатобумажной пряжи в Украине ..
+                Мы также ищем более развития и более публичных торгов
+                Таким образом, Табук является крупная компания имеет много различных областей работы. У нас есть магазин в Каире здания на 1500м2, 3 Clarks 0,25 фактора, и мы имеем дело с крупнейшим экспедитором для обеспечения доставки товаров клиентам быстрее. Мы ждем вашего первого заказа
+      </text>
+    </translation>
+
+    <translation>
+      <text lang="KEY">منتج</text>
+      <text lang="AR">منتج</text>
+      <text lang="EN">Product</text>
+      <text lang="RO">продукт</text>
+    </translation>
+    <!-- /////////////////////////////////////////////////////////////////////////////// -->
+    
+
+  </translations>
+</root>
