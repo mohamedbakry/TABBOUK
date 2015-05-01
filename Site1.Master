@@ -210,13 +210,13 @@
       
 			<ul class="nav navbar-nav" id="mainNav">
            
-			  <li class="active"><a href="/index.aspx#hero_section" class="scroll-link"><%=Translate("الرئيسية")%></a></li>
-			  <li><a href="/index.aspx#aboutUs" class="scroll-link"><%=Translate("عن الشركة")%></a></li>
-			  <li><a href="/index.aspx#service" class="scroll-link"><%=Translate("خدماتنا")%></a></li>
-			  <li><a href="/index.aspx#Portfolio" class="scroll-link"><%=Translate("منتجاتنا")%></a></li>
-			  <li><a href="/index.aspx#clients" class="scroll-link"><%=Translate("عملائنا")%></a></li>
-			  <li><a href="/index.aspx#team" class="scroll-link"><%=Translate("فريق العمل")%></a></li>
-			  <li><a href="/index.aspx#contact" class="scroll-link"><%=Translate("إتصل بنا")%></a></li>
+			   <li ><a href="index.aspx" class="scroll-link"><%=Translate("الرئيسية")%></a></li>
+			  <li><a href="AboutUs.aspx" class="scroll-link"><%=Translate("عن الشركة")%></a></li>
+			  <li><a href="Services.aspx" class="scroll-link"><%=Translate("خدماتنا")%></a></li>
+			  <li><a href="Portofolio.aspx" class="scroll-link"><%=Translate("منتجاتنا")%></a></li>
+			  <li><a href="Clients.aspx" class="scroll-link"><%=Translate("عملائنا")%></a></li>
+			  <li><a href="TeamWork.aspx" class="scroll-link"><%=Translate("فريق العمل")%></a></li>
+			  <li><a href="ContactUs.aspx" class="scroll-link"><%=Translate("إتصل بنا")%></a></li>
               
 			</ul>
               <!-- Single button -->

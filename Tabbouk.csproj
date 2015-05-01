@@ -57,6 +57,9 @@
     <Content Include="bin\Tabbouk.dll" />
     <Content Include="bin\Tabbouk.pdb" />
     <Content Include="bin\Translation.dll" />
+    <Content Include="AboutUs.aspx" />
+    <Content Include="Clients.aspx" />
+    <Content Include="ContactUs.aspx" />
     <Content Include="css\animate.css" />
     <Content Include="css\animation.css" />
     <Content Include="css\bootstrap.css" />
@@ -156,9 +159,12 @@
     <Content Include="obj\Debug\Tabbouk.csproj.FileListAbsolute.txt" />
     <Content Include="obj\Debug\Tabbouk.dll" />
     <Content Include="obj\Debug\Tabbouk.pdb" />
+    <Content Include="Portofolio.aspx" />
     <Content Include="Products_Display.aspx" />
     <Content Include="ProductView.aspx" />
     <Content Include="README.txt" />
+    <Content Include="Services.aspx" />
+    <Content Include="TeamWork.aspx" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -169,13 +175,41 @@
     <Content Include="xml\mldata.xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Clients.aspx.cs">
+      <DependentUpon>Clients.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Clients.aspx.designer.cs">
+      <DependentUpon>Clients.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Commons.cs" />
+    <Compile Include="AboutUs.aspx.cs">
+      <DependentUpon>AboutUs.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AboutUs.aspx.designer.cs">
+      <DependentUpon>AboutUs.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ContactUs.aspx.cs">
+      <DependentUpon>ContactUs.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ContactUs.aspx.designer.cs">
+      <DependentUpon>ContactUs.aspx</DependentUpon>
+    </Compile>
     <Compile Include="index.aspx.cs">
       <DependentUpon>index.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="index.aspx.designer.cs">
       <DependentUpon>index.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Portofolio.aspx.cs">
+      <DependentUpon>Portofolio.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Portofolio.aspx.designer.cs">
+      <DependentUpon>Portofolio.aspx</DependentUpon>
     </Compile>
     <Compile Include="Products_Display.aspx.cs">
       <DependentUpon>Products_Display.aspx</DependentUpon>
@@ -192,12 +226,26 @@
       <DependentUpon>ProductView.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Services.aspx.cs">
+      <DependentUpon>Services.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Services.aspx.designer.cs">
+      <DependentUpon>Services.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Site1.Master.cs">
       <DependentUpon>Site1.Master</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="Site1.Master.designer.cs">
       <DependentUpon>Site1.Master</DependentUpon>
+    </Compile>
+    <Compile Include="TeamWork.aspx.cs">
+      <DependentUpon>TeamWork.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="TeamWork.aspx.designer.cs">
+      <DependentUpon>TeamWork.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>

@@ -65,6 +65,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 </script>
 </head>
 <body>
+
   <div class="section-title">
   
     <h2><%=Translate("منتج")%></h2>
